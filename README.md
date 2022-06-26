@@ -1,3 +1,3 @@
-# vitejs-vite-sbgvcr
+## How to build an Auto-Playing Slideshow with React 
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-sbgvcr)
+Tutorial by (Omar Benseddik on [tinloof](https://tinloof.com/blog/how-to-build-an-auto-play-slideshow-with-react) - 2020-11-16)
